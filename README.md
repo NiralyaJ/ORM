@@ -4,7 +4,7 @@
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
-[alt text](<Screenshot 2025-04-23 171433.png>)
+![alt text](<Screenshot 2025-04-23 171433.png>)
 
 ## DESIGN STEPS
 
